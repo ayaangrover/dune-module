@@ -1,4 +1,4 @@
-name: zmk-keyboard-thyme
+name: zmk-keyboard-dune
 build:
   settings:
     board_root: .
