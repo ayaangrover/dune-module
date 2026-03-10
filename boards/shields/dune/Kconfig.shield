@@ -1,0 +1,5 @@
+config SHIELD_DUNE_LEFT
+    def_bool $(shields_list_contains,dune_left)
+
+config SHIELD_DUNE_RIGHT
+    def_bool $(shields_list_contains,dune_right)

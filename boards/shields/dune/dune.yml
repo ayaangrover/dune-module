@@ -1,0 +1,11 @@
+file_format: "1"
+id: dune
+name: Dune
+type: shield
+url: https://github.com/ayaangrover/dune
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - dune_left
+  - dune_right
